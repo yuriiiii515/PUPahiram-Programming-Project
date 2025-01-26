@@ -1,0 +1,65 @@
+{
+    "MON": {
+        "Timeslot 1": "PROJECTOR 1\n\nBSIT 1 - 1 | 9:00PM\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUUUU",
+        "Timeslot 2": "PROJECTOR 2\n\nBSIT 11",
+        "Timeslot 3": "PROJECTOR 3",
+        "Timeslot 4": "PROJECTOR 4",
+        "Timeslot 5": "PROJECTOR 5",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "TUE": {
+        "Timeslot 1": "BSIT 1-1",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "WED": {
+        "Timeslot 1": "",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "THURS": {
+        "Timeslot 1": "",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "FRI": {
+        "Timeslot 1": "",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "SAT": {
+        "Timeslot 1": "",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    },
+    "SUN": {
+        "Timeslot 1": "",
+        "Timeslot 2": "",
+        "Timeslot 3": "",
+        "Timeslot 4": "",
+        "Timeslot 5": "",
+        "Timeslot 6": "",
+        "Timeslot 7": ""
+    }
+}
